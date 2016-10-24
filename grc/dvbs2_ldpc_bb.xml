@@ -230,7 +230,7 @@ $constellation.val)</make>
   </param>
   <param>
     <name>Code rate</name>
-    <key>rate4</key>
+    <key>rate2</key>
     <type>enum</type>
     <hide>$framesize.hide_medium</hide>
     <option>
@@ -251,7 +251,7 @@ $constellation.val)</make>
   </param>
   <param>
     <name>Code rate</name>
-    <key>rate5</key>
+    <key>rate3</key>
     <type>enum</type>
     <hide>$framesize.hide_short</hide>
     <option>
